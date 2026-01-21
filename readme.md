@@ -77,8 +77,12 @@ Projekt je typu .NET Console Application.
 **Spuštění z terminálu:**
 ```bash 
 dotnet run 
+```
 
-#Zdroje
+
+
+
+# Zdroje
 1. https://sites.google.com/view/7tilo-25/ p%C5%99edn%C3%A1%C5%A1ky - Přednášky z XTILO
 2. https://turingmachinesimulator.com/ - Nástroj pro vizualizaci a debugování logiky TS. Sloužil pro ověření správnosti navržených přechodových funkcí před jejich přepsáním do kódu
 3. Umělá inteligence - Sloužilo jako 'virtuální konzultant' pro pochopení složitějších částí zadání a přednášek. Dále jsem AI využil pro návrh kostry projektu a kontrolu gramatiky v dokumentaci.
